@@ -18,7 +18,7 @@ A simple and intuitive temperature converter built with Flutter. This app allows
 
 | Portrait Mode | Landscape Mode |
 |---------------|----------------|
-| ![Portrait](screenshots/portrait.png) | ![Landscape](screenshots/landscape.png) |
+| ![Portrait](screenshots/port.jpeg) | ![Landscape](screenshots/land.jpeg) |
 
 ---
 
