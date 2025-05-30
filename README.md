@@ -37,13 +37,15 @@ A simple and intuitive temperature converter built with Flutter. This app allows
 ```bash
 git clone https://github.com/your-username/flutter-temperature-converter.git
 cd flutter-temperature-converter
+```
 
 2. **Install dependencies**
 
 ```bash
 flutter pub get
-
+```
 3. **Run the application**
 
 ```bash
 flutter run
+```
